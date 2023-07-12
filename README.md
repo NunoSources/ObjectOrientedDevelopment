@@ -1,4 +1,4 @@
-# ObjectOrientedDevelopment
+# OOChess
 
 ![image](https://user-images.githubusercontent.com/98571427/192832441-8740cf93-1201-4484-875b-6df4d0d81faa.png)
 ![image](https://user-images.githubusercontent.com/98571427/192832539-8fa744a0-a1c9-428d-9d7d-a232d846d29c.png)
